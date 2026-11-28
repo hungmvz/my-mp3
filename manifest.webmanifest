@@ -1,0 +1,1 @@
+{"name":"MyMp3","short_name":"MyMp3","start_url":"/my-mp3/","display":"standalone","background_color":"#000000","theme_color":"#000000","lang":"vi","scope":"/my-mp3/","icons":[{"src":"icons/icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icons/icon-512.png","sizes":"512x512","type":"image/png"}]}
